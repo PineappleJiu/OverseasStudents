@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 标准背景色 -->
+    <color name="stand_backgroud">#F4F4F4</color>
+    <!-- 黑色 -->
+    <color name="black">#333333</color>
+    <!-- gray -->
+    <color name="gray">#E5E5E5</color>
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#B3B3B3</color>
+    <color name="time_gray">#808080</color>
+    <color name="text_bg_color">#ffffff</color>
+    <color name="btn_pressed_color">#E0E0E0</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <color name="red">#ff0000</color>
+	<color name="orange">#F9CC12</color>
+    <color name="orange_light">#ffffdd</color>
+    <color name="transparent">#00000000</color>
+    <color name="blue">#0099ff</color>
+	<color name="blue_light">#aaaaff</color>
+    <color name="blue_dark">#1983d1</color>
+    <color name="blue_black">#1673b8</color>
+    <color name="green">#00ff99</color>
+    
+    <color name="tab_text_selected">#0084e8</color>
+    <color name="tab_text_normal">#7597b3</color>
+</resources>

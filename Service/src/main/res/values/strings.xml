@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Service</string>
+    <string name="first_tab">公告</string>
+    <string name="second_tab">服务</string>
+    <string name="third_tab">发布</string>
+    <string name="fourth_tab">我的</string>
+    <string name="unlogin">退出登录</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!--About说明 -->
+    <string name="About_Name">开发者：PineappleJiu</string>
+    <string name="About_Number">学号：1160299298</string>
+    <string name="About_Class">班级：计算机162</string>
+    <string name="About_Build">版本号：1.0.0</string>
+	
+	<string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="menu_first">公告</string>
+    <string name="menu_second">服务</string>
+    <string name="menu_third">发布</string>
+    <string name="menu_forth">我的</string>
+	<string name="search">搜索</string>
+    <string name="please_input">请输入</string>
+
+    <!-- pull_refresh_strings -->
+    <string name="pull_to_refresh_pull_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">正在刷新...</string>
+    <!-- Just use standard Pull Down String when pulling up. These can be set for languages which require it -->
+    <string name="pull_to_refresh_from_bottom_pull_label">上拉加载更多</string>
+    <string name="pull_to_refresh_from_bottom_release_label">松开加载更多</string>
+    <string name="loading">正在加载...</string>
+    <string name="not_updated_yet">暂未更新过</string>
+    <string name="updated_at">上次更新于%1$s前</string>
+    <string name="updated_just_now">刚刚更新</string>
+    <string name="time_error">时间有问题</string>
+    <string name="load_all">已加载全部</string>
+</resources>
